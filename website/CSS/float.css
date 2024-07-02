@@ -1,0 +1,15 @@
+body{
+    border: 5px solid;
+    display: flow-root;
+}
+#img1{
+    float: left;
+    margin: auto;
+}
+#img2{
+    float: right;
+}
+#img3{
+    float: left;
+    margin: auto;
+}

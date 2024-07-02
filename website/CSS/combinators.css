@@ -1,0 +1,27 @@
+#container{
+    border: 2px solid;
+}
+#container p{
+    background-color: green;
+}
+
+#container2{
+    border: 2px solid;
+}
+#container2>p{
+    background-color:yellow;
+}
+
+#container3{
+    border: 2px solid;
+}
+#container3~p{
+    background-color:blue;
+}
+
+#container4{
+    border: 2px solid;
+}
+#container4+p{
+    background-color: blueviolet;
+}

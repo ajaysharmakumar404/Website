@@ -1,0 +1,11 @@
+h1{
+    border: 5px solid rgb(36, 0, 128);
+    border-radius: 20px;
+}
+pre{
+    border-bottom: 4px solid rgb(191, 0, 255);
+    border-top: 4px solid rgb(0, 110, 255);
+    border-left: 4px dashed rgb(242, 255, 0);
+    border-right: 4px dotted rgba(172, 255, 47, 0.829);
+    border-radius: 10px;
+}

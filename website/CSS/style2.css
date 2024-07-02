@@ -1,0 +1,24 @@
+@font-face{
+    src: url(fonts/Roboto-Light.ttf);
+    font-family: Roboto-Light;
+}
+@font-face{
+    src: url(fonts/RobotoSlab-VariableFont_wght.tt);
+    font-family: slab-variable;
+}
+h1{
+    font-family: Roboto-Light, Verdana, arial;
+}
+p{
+    font-family: slab-variable, verdana, arial;
+    font-size: 1.2em;
+    font-weight: normal;
+    font-style: oblique
+}
+
+#p1{
+    font-family: Roboto-Light;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+}

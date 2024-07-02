@@ -1,0 +1,14 @@
+div{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+span{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    display: block;
+}

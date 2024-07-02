@@ -1,0 +1,31 @@
+
+a{
+    color: hsl(127, 100%, 25%);
+}
+a:hover{
+    color:hsla(358, 100%, 25%, 0.833);
+    font-size: 1.2em;
+}
+a:active{
+    color:hsla(210, 100%, 25%, 0.833);
+    font-size: 1.2em;
+}
+a:visited{
+    color: white;
+}
+
+li:hover{
+    background-color: yellow;
+}
+li:not(:hover){
+    background-color: gray;
+}
+
+#greetings p{
+    background-color: rgb(0, 247, 255);
+    padding: 10px;
+    display: none;
+}
+#greetings:hover p{
+    display: block;
+}
